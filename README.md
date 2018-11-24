@@ -4,11 +4,7 @@ This Node.js sample app lets you upload an image to get predictions from Salesfo
 
 When deploying this app, a new Einstein Vision add-on will be created which includes an Einstein Vision account.
 
-<<<<<<< HEAD
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pankajavhad/einstein-vision-node-master)
-=======
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/einstein-vision-node)
->>>>>>> 52e28a70e2a970ac2ba05df20b542064a988e726
 
 ## Select a Model
 
@@ -100,11 +96,7 @@ Instead of using the Deploy to Heroku button, you may deploy your own forked/cus
 ✏️ *Replace `$APP_NAME` in the following commands with the unique name of your app.*
 
 ```
-<<<<<<< HEAD
 git clone https://github.com/pankajavhad/einstein-vision-node-master.git
-=======
-git clone https://github.com/heroku/einstein-vision-node.git
->>>>>>> 52e28a70e2a970ac2ba05df20b542064a988e726
 cd einstein-vision-node
 
 heroku create $APP_NAME
